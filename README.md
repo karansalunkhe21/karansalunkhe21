@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karan Salunkhe 👋</h1>
 
 <p align="center">
-  <em>Data Scientist · ML Engineer · Analytics Professional</em>
+  <em>Data Analyst &nbsp;·&nbsp; Data Engineer &nbsp;·&nbsp; Business Analyst</em>
 </p>
 
 <p align="center">
@@ -14,44 +14,75 @@
 
 ### 👨‍💻 About Me
 
-I'm a data-driven professional passionate about turning raw data into meaningful insights and intelligent systems. I work at the intersection of **data science**, **machine learning**, and **business intelligence** — building models that predict, pipelines that scale, and dashboards that tell the real story.
+I'm a data professional with hands-on experience in **data engineering**, **analytics**, and **business intelligence** — from designing ETL pipelines and data warehouses to building dashboards that drive real decisions. Currently pursuing my **M.S. in Information Systems at Syracuse University**, I thrive on turning messy, complex data into clean, actionable insights.
 
-- 🔭 Currently exploring: **LLMs, MLOps & end-to-end ML pipelines**
-- 📊 Love working with: **complex datasets, feature engineering & model optimization**
-- 🧠 Always learning: **AI trends, data architecture & cloud platforms**
-- 💬 Ask me about: **Python, SQL, ML modeling, or anything data**
+- 🏗️ Built ETL pipelines integrating **Oracle, SQL Server & Snowflake** for production analytics
+- 📊 Designed **Power BI & Tableau dashboards** used by 50+ stakeholders across business functions
+- 🔄 Architected **Medallion & Star Schema data models** for end-to-end data warehousing
+- 🤖 Leveraged **LLM-assisted analysis** workflows with rigorous engineering judgment
+- 🎓 MS Information Systems @ **Syracuse University** | BE Information Technology @ **University of Mumbai**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Data**
+**Languages & Querying**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
 
-**Machine Learning & AI**
+**Data Engineering & Warehousing**
 
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Data Engineering & BI**
+**Analytics & Visualization**
 
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
 
-**Cloud & Tools**
+**ML & AI-Assisted Techniques**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM--Assisted%20Analysis-412991?style=flat&logo=openai&logoColor=white)
+
+**Tools & Workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=flat&logo=microsoftaccess&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏗️ **Data Warehouse & Analytics** | Medallion Architecture (Bronze/Silver/Gold) consolidating 100K+ records; star schema with 5+ dimensions, 40% faster queries | SQL Server · Python · Power BI |
+| 🐦 **Bird Migration Data Warehouse** | 21 dbt SQL models in Snowflake; 3 Power BI dashboards with 50+ DAX measures; 40% cost reduction | Snowflake · dbt · Power BI · Python |
+| ⚡ **Energy Consumption Prediction** | End-to-end ML pipeline in R; 88.8% prediction accuracy across 34K+ data points; interactive Shiny dashboard | R · Shiny · scikit-learn |
+
+---
+
+### 💼 Experience Highlights
+
+**Data Engineer Intern** — Bronx County District Attorney's Office, NY *(2025)*
+> ETL pipelines across 15+ Oracle tables → Power BI platform for 50+ stakeholders; 75% faster report performance
+
+**Data Analyst** — Sprint Tech Solutions, Mumbai *(2023–2024)*
+> Statistical analysis on 500K+ data points; automated ETL saving 10+ hrs/week; 5 Power BI dashboards for ops & supply chain
 
 ---
 
@@ -68,18 +99,10 @@ I'm a data-driven professional passionate about turning raw data into meaningful
 
 ---
 
-### 📌 What I'm Working On
-
-- 🤖 Building end-to-end **ML pipelines** with automated retraining
-- 📦 Developing **ETL workflows** for large-scale structured & unstructured data
-- 📊 Crafting **interactive dashboards** that drive business decisions
-
----
-
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/karansalunkhe21" target="_blank">
+  <a href="https://www.linkedin.com/in/karansalunkhe804" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -87,7 +110,7 @@ I'm a data-driven professional passionate about turning raw data into meaningful
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:karansalunkhe21@gmail.com">
+  <a href="mailto:karansalunkhe804@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -95,5 +118,7 @@ I'm a data-driven professional passionate about turning raw data into meaningful
 ---
 
 <p align="center">
-  <em>"Without data, you're just another person with an opinion." — W. Edwards Deming</em>
+  <em>"In God we trust. All others must bring data." — W. Edwards Deming</em>
 </p>
+
+
