@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karan Salunkhe 👋</h1>
+<h1 align="center">Hi, I'm Karan Salunkhe </h1>
 
 <p align="center">
   <em>Data Analyst &nbsp;·&nbsp; Data Engineer &nbsp;·&nbsp; Business Analyst</em>
